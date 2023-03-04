@@ -1,2 +1,2 @@
-# Ms_Bioinformatics
-this is a test
+Algorithms in computational Biology
+Assignments/HW
